@@ -18,3 +18,8 @@ __pycache__
 *.zip
 *.pdf
 *.pkl
+
+# Project folders
+Project/Data
+Project/Project_Info
+Project/References
